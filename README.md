@@ -51,15 +51,6 @@ Point1_x and Point1_y are the coordinates of the first point.
 
 Point2_x and Point2_y are the coordinates of the second point.
 
-Usage
-
-Save your dataset as input_points.csv in the same directory as the script.
-
-Run the script using Python:
-
-python distance_calculation.py
-
-
 The results will be printed to the console and look like this:
 
    Index      Point1      Point2  Euclidean  Manhattan  Minkowski (p=3)
