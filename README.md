@@ -51,6 +51,7 @@ Point1_x and Point1_y are the coordinates of the first point.
 
 Point2_x and Point2_y are the coordinates of the second point.
 
+
 The results will be printed to the console and look like this:
 
    Index      Point1      Point2  Euclidean  Manhattan  Minkowski (p=3)
@@ -86,6 +87,4 @@ Customization
 
 You can modify the script to calculate other distance metrics by adjusting the distance functions from the scipy.spatial module.
 
-You can also change the value of 
-p
-p in Minkowski distance to compute different variants of this metric.
+You can also change the value of p in Minkowski distance to compute different variants of this metric.
