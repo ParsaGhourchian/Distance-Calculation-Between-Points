@@ -1,4 +1,4 @@
-Distance Calculation Between Points
+# Distance Calculation Between Points
 
 This Python script calculates various types of distances between pairs of points in a 2D space. The distances calculated include:
 
@@ -10,7 +10,7 @@ Minkowski Distance (with p=3)
 
 The script reads a dataset from a CSV file, computes the distances for each pair of points, and outputs the results in a new DataFrame.
 
-Features
+# Features
 
 Euclidean Distance: The straight-line distance between two points. It is calculated using the standard formula for Euclidean distance.
 
